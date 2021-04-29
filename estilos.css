@@ -1,0 +1,55 @@
+body{
+	background-color: #D7D4D1;
+}
+.bann{
+	position: absolute;
+	top: 1%;
+	left: 12%;
+	width: 75%;
+}
+.im1{
+	position: absolute;
+	top: 35%;
+	left: 15%;
+}
+.im2{
+	position: absolute;
+	top: 230%;
+	left: 23%;
+}
+.im3{
+	position: absolute;
+	top: 297%;
+	left: 16%;
+}
+.im4{
+	position: absolute;
+	top: 482%;
+	left: 21%;
+}
+.co{
+	position: absolute;
+	top: 548%;
+	left: 0%;
+}
+.f1{
+	position: absolute;
+	top: 0%;
+	left: 0%;
+	width: 100%;
+	height: 150%;
+}
+.f2{
+	position: absolute;
+	top: 290%;
+	left: 0%;
+	width: 100%;
+	height: 150%;
+}
+.f3{
+	position: absolute;
+	top: 543%;
+	left: 0%;
+	width: 100%;
+	height: 85%;
+}
